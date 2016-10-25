@@ -1,0 +1,7 @@
+# Files and folders to ignore
+*.o
+*.txt
+*.docx
+
+.DS_Store
+Dockerfile
